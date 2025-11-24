@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@theme {
+  --color-button: #ff6347;
+  --color-background: #212529;
+  --color-cards: #32383f;
+  --color-surface: #2d3136;
+}
